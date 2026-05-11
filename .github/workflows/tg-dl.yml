@@ -104,7 +104,7 @@ jobs:
             echo "💡 لطفاً کد صحیح را وارد کنید یا کد جدید خریداری کنید"
             echo ""
             echo "🔗 برای خرید کد فعالسازی:"
-            echo "   https://pay.avasam.ir/link/769584"
+            echo "   https://pay.avasam.ir/link/769601"
             echo ""
             echo "valid=false" >> $GITHUB_OUTPUT
           fi
@@ -124,7 +124,7 @@ jobs:
               echo ""
               echo "برای دریافت کد فعالسازی دائمی این دانلودر پرداخت زیر را انجام دهید تا کد برای شما نمایش داده شود و سپس کد را در بخش کدفعالسازی وارد کنید . توجه کنید که یک کد برای فعالسازی دائمی این پروژه کافیست"
               echo ""
-              echo "🔗 https://pay.avasam.ir/link/769584"
+              echo "🔗 https://pay.avasam.ir/link/769601"
               echo ""
               echo "---"
               echo ""
@@ -156,7 +156,7 @@ jobs:
           echo "🔴 کد وارد شده معتبر نیست"
           echo ""
           echo "📌 برای دریافت کد فعالسازی معتبر:"
-          echo "   https://pay.avasam.ir/link/769584"
+          echo "   https://pay.avasam.ir/link/769601"
           echo ""
           exit 1
 
@@ -210,7 +210,7 @@ jobs:
               echo ""
               echo "برای دریافت کد فعالسازی دائمی این دانلودر پرداخت زیر را انجام دهید تا کد برای شما نمایش داده شود و سپس کد را در بخش کدفعالسازی وارد کنید . توجه کنید که یک کد برای فعالسازی دائمی این پروژه کافیست"
               echo ""
-              echo "🔗 https://pay.avasam.ir/link/769584"
+              echo "🔗 https://pay.avasam.ir/link/769601"
               echo ""
               echo "---"
               echo ""
@@ -244,7 +244,7 @@ jobs:
           echo ""
           echo "📌 برای فعالسازی دائمی:"
           echo "   1️⃣ به لینک زیر بروید و پرداخت کنید:"
-          echo "      https://pay.avasam.ir/link/769584"
+          echo "      https://pay.avasam.ir/link/769601"
           echo ""
           echo "   2️⃣ کد فعالسازی 4 رقمی را دریافت کنید"
           echo ""
@@ -286,7 +286,7 @@ jobs:
             echo ""
             echo "⚠️ این کد دیگر معتبر نیست"
             echo "📌 برای دریافت کد جدید:"
-            echo "   https://pay.avasam.ir/link/769584"
+            echo "   https://pay.avasam.ir/link/769601"
             echo ""
             exit 1
           fi
